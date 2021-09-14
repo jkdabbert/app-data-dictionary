@@ -1,7 +1,8 @@
 # Data Dictionary Extension
 
 ## Usage
-
+ 
+ 
 - Install dependencies with Yarn: `yarn install`
 - To run a development server: `yarn start`
 
